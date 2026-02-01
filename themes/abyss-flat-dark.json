@@ -54,7 +54,7 @@
     "sideBar.background": "#181818",
     "sideBar.border": "#2B2B2B",
     "sideBar.foreground": "#CCCCCC",
-    "sideBarSectionHeader.background": "#1F1F1F",
+    "sideBarSectionHeader.background": "#181818",
     "sideBarSectionHeader.border": "#2B2B2B",
     "sideBarSectionHeader.foreground": "#CCCCCC",
     "sideBarTitle.foreground": "#CCCCCC",
