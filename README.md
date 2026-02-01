@@ -15,4 +15,7 @@ Um tema para VS Code que combina a interface do **Default Dark Modern** com core
 2. Go to **Extensions** (`Ctrl+Shift+X`).
 3. Click the **"..."** (top right) and select **Install from VSIX...**.
 4. Select the `abyss-flat-dark-0.0.1.vsix` file.
-<img width="572" height="356" alt="image" src="https://github.com/user-attachments/assets/970ccb2e-8abb-4a62-b5f4-935700213a1f" />
+<img width="951" height="1004" alt="image" src="https://github.com/user-attachments/assets/389c6ed1-e902-4e16-9ff8-e9dcdfcb6e9a" />
+---
+<img width="955" height="1004" alt="image" src="https://github.com/user-attachments/assets/ab9ee877-a96f-4044-a99f-1da48fecf0dc" />
+
