@@ -20,7 +20,7 @@ Um tema para VS Code que combina a interface do **Default Dark Modern** com core
 
 ## Technical Details / Detalhes Técnicos
 
-* **UI Base:** Default Dark Modern.
+* **UI Base:** Dark Modern.
 * **Syntax:** Inspired by Theme Darker (customized).
 * **Editor Background:** `#1F1F1F`.
 * **Terminal Background:** `#181818`.
