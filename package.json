@@ -2,7 +2,7 @@
   "name": "abyss-flat-dark",
   "displayName": "Abyss Flat Dark",
   "description": "Default VS Code Modern Dark background, with more colorful syntax and all.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.108.1"
   },
