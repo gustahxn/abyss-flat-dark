@@ -1,0 +1,21 @@
+{
+  "name": "abyss-flat-dark",
+  "displayName": "Abyss Flat Dark",
+  "description": "Default VS Code Modern Dark background, with more colorful syntax and all.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.108.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyss Flat Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Colorful Dark-color-theme.json"
+      }
+    ]
+  }
+}
